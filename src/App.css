@@ -1,0 +1,23 @@
+input{
+    width: 40vh;
+     margin-left: 5vh;
+     border-radius: 15px;
+     padding-left: 2vh;
+}
+.bg{
+    background-color: #192a56;
+    width: 70%;
+    margin-left: 15vh; 
+     margin-top: 15vh;
+    padding: 5vh;
+    border-radius: 56px 56px 12vh 2px;
+    color:#e1b12c ;
+}
+.bg2{
+    padding: 1vh 1vh 2vh 2vh    ;
+    background-color: #00a8ff;
+    color:#03071e ;
+
+    border-radius: 5px 6px 12vh 8px;
+
+}
